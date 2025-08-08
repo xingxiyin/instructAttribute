@@ -9,8 +9,6 @@
 This is the official model implementation repository of 
 **instructAttribute: Fine-grained Object Attributes editing with Instruction**
 
-**🚀** **Quick Start**
-
 ### **🚀** **Quick Start**
 
 **Clone instruct-pix2pix repo**
@@ -23,11 +21,7 @@ pip install -r requirements.txt
 
 **Download InstructAttribute Model**
 
-```
-git clone https://github.com/timothybrooks/instruct-pix2pix.git
-```
-
-
+Download the **[InstructAttribute](https://huggingface.co/yinxingxi/instructAttribute) model**  
 
 ### Inference
 
@@ -49,9 +43,7 @@ pip install -r requirements.txt
 
 **Download SD 1.4**
 
-Download the SD1.4 from https://huggingface.co/CompVis/stable-diffusion-v1-4
-
-unzip the diffusers.zip package 
+Download the **[SD1.4](https://huggingface.co/CompVis/stable-diffusion-v1-4)**
 
 **Attribute Data Generation**
 
